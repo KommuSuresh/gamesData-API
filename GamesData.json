@@ -3,182 +3,3152 @@
     {
       "id": "b214dc8a-b126-4d15-8523-d37404318347",
       "title": "Drop Stack Ball",
+      "gameVideo":"https://www.youtube.com/embed/4-n5y56pDnY?rel=0",
+      "gameURL":"https://gameforge.com/en-US/littlegames/drop-stack-ball/#",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/drop-stack-ball-img.png",
-      "view_count": "44K"
+      "view_count": "44K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "10350061-447e-4377-af2a-00053c4e4214",
       "title": "Hill Climb Racing",
+      "gameVideo":"https://www.youtube.com/embed/k-Y1v7Z_V3I?rel=0",
+      "gameURL":"https://poki.com/en/g/crazy-cars",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/hill-climb-racing-img.png",
-      "view_count": "34K"
+      "view_count": "34K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "de32fa84-fb89-410b-bb40-49b473897442",
       "title": "Snail bob 3",
+      "gameVideo":"https://www.youtube.com/embed/smrQybPZ89k?rel=0",
+      "gameURL":"https://poki.com/en/g/boxrob-3",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/Snail-img.png",
-      "view_count": "27K"
+      "view_count": "27K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "4426d6c0-279d-4efe-9091-d2570f315a0c",
       "title": "Mario",
+      "gameVideo":"https://www.youtube.com/embed/tfz3nxBttg4?rel=0",
+      "gameURL":"https://poki.com/en/g/bossy-toss",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/mario-img.png",
-      "view_count": "31K"
+      "view_count": "31K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "8c294ff4-1ff1-493f-b703-a60d6044e19c",
       "title": "Subway Surf",
+      "gameVideo":"https://www.youtube.com/embed/ZtHCnXMjIXY?rel=0",
+      "gameURL":"https://poki.com/en/g/subway-surfers",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/subway-surf-img.png",
-      "view_count": "20K"
+      "view_count": "20K",    
+       "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "edf13c11-7174-4c35-8990-d94e501e263d",
       "title": "Fruit Ninja",
+      "gameVideo":"https://www.youtube.com/embed/ZtHCnXMjIXY?rel=0",
+      "gameURL":"https://poki.com/en/g/fruit-ninja",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/fruit-ninja-img.png",
-      "view_count": "5.9K"
+      "view_count": "5.9K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "11c5b163-6b87-4d2f-bbd4-aae2229d4128",
       "title": "Cooking Fever",
+      "gameVideo":"https://www.youtube.com/embed/66mcy3szLGw?rel=0",
+      "gameURL":"https://poki.com/en/g/cooking-fast",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cooking-fever-img.png",
-      "view_count": "15K"
+      "view_count": "15K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "2fc5781f-2881-42e6-b0cc-ebdb30f246c6",
       "title": "Join Clash",
+      "gameVideo":"https://www.youtube.com/embed/CR9Jl9tQxR0?rel=0",
+      "gameURL":"https://poki.com/en/g/airport-clash-3d",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/join-clash-3d-img.png",
-      "view_count": "57K"
+      "view_count": "57K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "00b4af7a-995c-4b88-8d02-4ef776e9ef2d",
       "title": "Talking Tom",
+      "gameVideo":"https://www.youtube.com/embed/Ib1Np-Rth7o?rel=0",
+      "gameURL":"https://poki.com/en/g/kitty-cats",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/talking-tom-img.png",
-      "view_count": "68K"
+      "view_count": "68K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "6dbf3cd4-b87b-4dd2-90b4-5929329c2df0",
       "title": "Galaxy",
+      "gameVideo":"https://www.youtube.com/embed/fBf-IznUHns?rel=0",
+      "gameURL":"https://poki.com/en/g/galactic-empire",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/galaxy-img.png",
-      "view_count": "12K"
+      "view_count": "12K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "b507adf6-b5df-4bfe-8727-afe64b192a98",
       "title": "Tennis Clash",
+      "gameVideo":"https://www.youtube.com/embed/gxClIDvmOJE?rel=0",
+      "gameURL":"https://poki.com/en/g/tennis-masters",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/tennis-clash-img.png",
-      "view_count": "11K"
+      "view_count": "11K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "b8653c7f-5be7-49a9-84f8-d9f47842bb78",
       "title": "Block Puzzle",
+      "gameVideo":"https://www.youtube.com/embed/y0SBgK6xU2o?rel=0",
+      "gameURL":"https://poki.com/en/g/blocky-puzzle",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/block-puzzle-img.png",
-      "view_count": "7.1K"
+      "view_count": "7.1K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "fb21cbc1-47e3-4bf5-87f9-9a4509b83cb9",
       "title": "Snake io",
+      "gameVideo":"https://www.youtube.com/embed/jn18IBVktHY?rel=0",
+      "gameURL":"https://poki.com/en/g/sushi-party-io",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/snake-io-img.png",
-      "view_count": "5.8K"
+      "view_count": "5.8K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "cb02cd3b-f4a0-4616-8182-d7086d0cf85b",
       "title": "Word pics",
+      "gameVideo":"https://www.youtube.com/embed/_Rt3GQ-IAcs?rel=0",
+      "gameURL":"https://poki.com/en/g/4-pics-1-word",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/word-pics-img.png",
-      "view_count": "21K"
+      "view_count": "21K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "250d6355-55f2-4466-aa7b-bc5d23059230",
       "title": "Angry birds",
+      "gameVideo":"https://www.youtube.com/embed/wmcCZmItJrQ?rel=0",
+      "gameURL":"https://poki.com/en/g/lava-bird",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/angry-birds-img.png",
-      "view_count": "10K"
+      "view_count": "10K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "6e4e96ac-c259-44e7-95ce-6f7a162fedfc",
       "title": "Jungle Adventure",
+      "gameVideo":"https://www.youtube.com/embed/y5o7aDW1eQ4?rel=0",
+      "gameURL":"https://poki.com/en/g/vectaria-io",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/jungle-adventure-img.png",
-      "view_count": "4K"
+      "view_count": "4K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "15671fed-47a8-4e6c-b0f2-be43085b39b5",
       "title": "Sand Balls",
+      "gameVideo":"https://www.youtube.com/embed/BVUvrSPF1V0?rel=0",
+      "gameURL":"https://poki.com/en/g/bowling-champion",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/sand-balls-img.png",
-      "view_count": "12K"
+      "view_count": "12K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "541e58ee-1024-4a88-a1a5-8de0a7b5b82e",
       "title": "Sling Shot Shooting",
+      "gameVideo":"https://www.youtube.com/embed/ZuUrRvIvGYs?rel=0",
+      "gameURL":"https://poki.com/en/g/stick-merge",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/sling-shot-shooting-img.png",
-      "view_count": "27K"
+      "view_count": "27K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "20e2f5d3-b556-4bb2-af60-16bcb39a90b0",
       "title": "Garden Scapes",
+      "gameVideo":"https://www.youtube.com/embed/SxT92K0D_cI?rel=0",
+      "gameURL":"https://poki.com/en/g/hide-and-smash",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/garden-scapes-img.png",
-      "view_count": "2K"
+      "view_count": "2K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "6e89a153-de5a-4b6b-b600-f4a0bad625b1",
       "title": "Magic Tile",
+      "gameVideo":"https://www.youtube.com/embed/A38mxa5RxSA?rel=0",
+      "gameURL":"https://poki.com/en/g/rocking-wheels",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/magic-tile-3-img.png",
-      "view_count": "11.9K"
+      "view_count": "11.9K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "f5aa0bd0-aaf2-4816-810e-b893f9a5d5a6",
       "title": "Hair Challenge",
+      "gameVideo":"https://www.youtube.com/embed/-xAcPRTZUU8?rel=0",
+      "gameURL":"https://poki.com/en/g/funny-haircut",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/hair-challenge-img.png",
-      "view_count": "22K"
+      "view_count": "22K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "45895678-411a-45f8-92bc-dd2964cf7f27",
       "title": "8 Ball pool",
+      "gameVideo":"https://www.youtube.com/embed/gXnp1H7Rxvg?rel=0",
+      "gameURL":"https://poki.com/en/g/8-ball-pool-with-buddies",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/8-ball-pool--img.png",
-      "view_count": "29K"
+      "view_count": "29K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "03641f78-eca9-4231-a2ac-0219f5ddc554",
       "title": "UNO",
+      "gameVideo":"https://www.youtube.com/embed/pIZsflFBNIY?rel=0",
+      "gameURL":"https://poki.com/en/g/spades",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/uno-img.png",
-      "view_count": "30K"
+      "view_count": "30K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "69ad1aa6-ca21-4103-8275-619e2687da32",
       "title": "Minion Rush",
+      "gameVideo":"https://www.youtube.com/embed/iMmyLeL9GGo?rel=0",
+      "gameURL":"https://poki.com/en/g/rainbow-obby",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/minion-img.png",
-      "view_count": "49K"
+      "view_count": "49K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "f22f51df-c7d5-4d6e-b67b-7cf871d328fc",
       "title": "Jigsaw",
+      "gameVideo":"https://www.youtube.com/embed/pj55_Ra2AQg?rel=0",
+      "gameURL":"https://poki.com/en/g/jigsaw-surprise",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/jigsaw-img.png",
-      "view_count": "40K"
+      "view_count": "40K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "5025ee2b-6fa5-41de-86b7-6eb11ac2f4c1",
       "title": "Cut the Rope",
+      "gameVideo":"https://www.youtube.com/embed/BNnX2rKIERI?rel=0",
+      "gameURL":"https://poki.com/en/g/slash-the-rope",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/cut-the-rope-img.png",
-      "view_count": "32K"
+      "view_count": "32K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "5094b343-7f61-4571-b392-58dbed7d5368",
       "title": "Mekorama",
+      "gameVideo":"https://www.youtube.com/embed/zPWLSrODx80?rel=0",
+      "gameURL":"https://poki.com/en/g/mekorama",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/mekorama-img.png",
-      "view_count": "545K"
+      "view_count": "545K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "2d1a66dc-5daa-4ff4-809a-84a777a0a8ef",
       "title": "Call of Duty",
+      "gameVideo":"https://www.youtube.com/embed/yoIqd65F1po?rel=0",
+      "gameURL":"https://poki.com/en/g/call-of-tanks",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/call-of-duty-img.png",
-      "view_count": "63K"
+      "view_count": "63K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "a8b30db5-71b2-48c2-bd81-0b76a2da3197",
       "title": "Word Crush",
+      "gameVideo":"https://www.youtube.com/embed/VpFp_D37Ocs?rel=0",
+      "gameURL":"https://poki.com/en/g/word-city-crossed",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/word-crush-img.png",
-      "view_count": "12K"
+      "view_count": "12K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     },
     {
       "id": "74ae9d17-f65b-43e6-9931-56ab8b860991",
       "title": "Chain Reaction",
+      "gameVideo":"https://www.youtube.com/embed/VDcXX-aHETnw?rel=0",
+      "gameURL":"https://poki.com/en/g/water-color-sort",
       "thumbnail_url": "https://assets.ccbp.in/frontend/react-js/nxt-watch/chain-reaction-img.png",
-      "view_count": "39K"
+      "view_count": "39K",
+      "channel": {
+        "name": "Poki Games",
+        "no_of_subscribers": "3.84M subscribers",
+        "profile_image_url": "https://image.pngaaa.com/170/4789170-middle.png"
+      },
+  "comments": [
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Patel",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This game is a masterpiece! The graphics are incredible!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Rao",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Absolutely loved the storyline! Can't wait for the next update!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Kumar",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The gameplay mechanics are so smooth and intuitive!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sara Sharma",
+        "how_much_days_ago": "6 days ago",
+        "comment_description": "I've been playing non-stop since I got it! Totally addictive!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Singh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Best game of the year hands down!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The character customization is phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Mishra",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Multiplayer mode is so much fun! Highly recommend!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Jain",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The open world design is breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Every level is a new adventure! Great job developers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This game exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan Khanna",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The soundtrack is amazing! It really sets the mood!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I love the attention to detail in this game!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The voice acting is top-notch!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Nair",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just finished it and I'm already starting a new playthrough!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Desai",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the developers for such an epic game!"
+      }
+    ]
     }
   ],
   "total": 30
